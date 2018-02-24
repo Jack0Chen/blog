@@ -69,6 +69,6 @@ theme: polarbear
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Jack0Chen/blog.git
+  repo: git@github.com:Jack0Chen/Jack0Chen.github.io.git
   branch: master
   message: update
